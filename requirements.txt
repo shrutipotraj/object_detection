@@ -1,0 +1,6 @@
+ultralytics==8.0.26
+numpy
+matplotlib
+opencv-python
+flask
+flask_wtf
